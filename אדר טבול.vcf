@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//Mac OS X 10.8.5//EN
+N:טבול;אדר;;;
+FN:אדר טבול
+ORG:אדר קוסמטיקס;
+EMAIL;type=INTERNET;type=WORK;type=pref:adartb27@gmail.com
+TEL;type=CELL;type=VOICE;type=pref:052-349-6482
+ADR;type=HOME;type=pref:;;;רמת גן;;;
+item1.URL;type=pref:https://www.facebook.com/adar.cosmetics
+item1.X-ABLabel:facebook
+UID:8ABC7016-B364-4D94-BCC8-422AB18B546A
+X-ABUID:44E8C391-949F-47BB-8D94-82ACED2D1581:ABPerson
+END:VCARD
