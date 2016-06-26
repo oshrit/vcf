@@ -4,12 +4,15 @@ PRODID:-//Apple Inc.//Mac OS X 10.8.5//EN
 N:בלייברג;יעל;;;
 FN:יעל בלייברג
 ORG:טיפול פנים יפני\, אנטי אייג'ינג;
-EMAIL;type=INTERNET;type=HOME;type=pref:yael.b45@gmail.com
+item1.EMAIL;type=INTERNET;type=pref:yael.b45@gmail.com
+item1.X-ABLabel:Mail
 TEL;type=CELL;type=VOICE;type=pref:052-3712194
-TEL;type=WORK;type=VOICE:09-7713293
-ADR;type=HOME;type=pref:;;דודו דותן 3;;;;נתניה
-item1.URL;type=pref:www.yael-b.co.il
-item1.X-ABLabel:_$!<HomePage>!$_
+item2.TEL:09-7713293
+item2.X-ABLabel:Phone
+item3.ADR;type=pref:;;דודו דותן 3;;;;נתניה
+item3.X-ABLabel:address
+item4.URL;type=pref:www.yael-b.co.il
+item4.X-ABLabel:_$!<HomePage>!$_
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/4QBARXhpZgAATU0AKgAA
  AAgAAYdpAAQAAAABAAAAGgAAAAAAAqACAAQAAAABAAAAyaADAAQAAAABAAAAyQAAAAD/2wBDAA
  IBAQIBAQICAQICAgICAwUDAwMDAwYEBAMFBwYHBwcGBgYHCAsJBwgKCAYGCQ0JCgsLDAwMBwkN
