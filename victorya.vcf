@@ -3,11 +3,10 @@ VERSION:3.0
 PRODID:-//Apple Inc.//Mac OS X 10.8.5//EN
 N:רומזנוב;ויקטוריה;;;
 FN:ויקטוריה רומזנוב
-EMAIL;type=INTERNET;type=HOME;type=pref:viktoriaromazanova@gmail.com
-TEL;type=CELL;type=VOICE;type=pref:052-7075750
-TEL;type=CELL;type=VOICE:053-7575757
-TEL;type=HOME;type=VOICE:036736757
-ADR;type=HOME;type=pref:;;שדרות הילד 19\n;רמת גן;;;
+item1.EMAIL;type=INTERNET;type=pref:viktoriaromazanova@gmail.com
+item1.X-ABLabel:mail
+TEL;type=CELL;type=VOICE;type=pref:0527001219
+ADR;type=HOME;type=pref:;;שדרות הילד\n;רמת גן;;;
 NOTE:\n
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/4gxYSUNDX1BST0ZJTEUA
  AQEAAAxITGlubwIQAABtbnRyUkdCIFhZWiAHzgACAAkABgAxAABhY3NwTVNGVAAAAABJRUMgc1
