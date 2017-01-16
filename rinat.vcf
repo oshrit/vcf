@@ -4,14 +4,18 @@ PRODID:-//Apple Inc.//Mac OS X 10.8.5//EN
 N:כהן;רינת;;;
 FN:רינת כהן
 ORG:בוראת מציאות רצויה;
-EMAIL;type=INTERNET;type=HOME;type=pref:rinatcohen1@yahoo.com
+item1.EMAIL;type=INTERNET;type=pref:rinatcohen1@yahoo.com
+item1.X-ABLabel:email
 TEL;type=CELL;type=VOICE;type=pref:054-669-2508
-TEL;type=WORK;type=VOICE:072-2110856
+item2.TEL:072-2110856
+item2.X-ABLabel:phone
 NOTE:\n
-item1.URL;type=pref:http://www.homepro.co.il/rinat
-item1.X-ABLabel:_$!<HomePage>!$_
-X-AIM;type=HOME;type=pref:זכרון יעקב
-IMPP;X-SERVICE-TYPE=AIM;type=HOME;type=pref:aim:%D7%96%D7%9B%D7%A8%D7%95%D7%9F%20%D7%99%D7%A2%D7%A7%D7%91
+item3.URL;type=pref:http://www.homepro.co.il/rinat
+item3.X-ABLabel:site
+item4.X-AIM;type=pref:זכרון יעקב
+item4.X-ABLabel:address
+item5.IMPP;X-SERVICE-TYPE=AIM;type=pref:aim:%D7%96%D7%9B%D7%A8%D7%95%D7%9F%20%D7%99%D7%A2%D7%A7%D7%91
+item5.X-ABLabel:address
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/4gxYSUNDX1BST0ZJTEUA
  AQEAAAxITGlubwIQAABtbnRyUkdCIFhZWiAHzgACAAkABgAxAABhY3NwTVNGVAAAAABJRUMgc1
  JHQgAAAAAAAAAAAAAAAAAA9tYAAQAAAADTLUhQICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
