@@ -12,12 +12,13 @@ item3.TEL:(03) 5328711
 item3.X-ABLabel:טל.
 item4.TEL:035328725
 item4.X-ABLabel:פקס.
-NOTE:\n\n\n
+NOTE:\n\nrubin_osnat_lawyer\n\n\n
 item5.URL;type=pref:http://www.orubinlaw.co.il/
 item5.X-ABLabel:לאתר שלי
 item6.URL:http://osh-design.co.il/osnat_rubin_lawyer.html
 item6.X-ABLabel:לכרטיס הדיגיטלי שלי
-IMPP;X-SERVICE-TYPE=Facebook;type=HOME;type=pref:xmpp:%D7%94%D7%92%D7%A4%D7%9F%2034%5C\,%20%D7%92%D7%91%D7%A2%D7%AA%20%D7%A9%D7%9E%D7%95%D7%90%D7%9C
+X-AIM;type=WORK;type=pref:הגפן 34\, גבעת שמואל
+IMPP;X-SERVICE-TYPE=AIM;type=WORK;type=pref:aim:%D7%94%D7%92%D7%A4%D7%9F%2034%5C\,%20%D7%92%D7%91%D7%A2%D7%AA%20%D7%A9%D7%9E%D7%95%D7%90%D7%9C
 PHOTO;ENCODING=b;TYPE=JPEG:/9j/4AAQSkZJRgABAQAAAQABAAD/4gxYSUNDX1BST0ZJTEUA
  AQEAAAxITGlubwIQAABtbnRyUkdCIFhZWiAHzgACAAkABgAxAABhY3NwTVNGVAAAAABJRUMgc1
  JHQgAAAAAAAAAAAAAAAAAA9tYAAQAAAADTLUhQICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
