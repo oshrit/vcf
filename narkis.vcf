@@ -9,7 +9,7 @@ TEL;type=CELL;type=VOICE;type=pref:050-6980813
 TEL;type=WORK;type=VOICE:(03) 6812644
 TEL;type=WORK;type=FAX:036812651
 ADR;type=WORK;type=pref:;;חומה ומגדל 32\, תל אביב;;;;
-item1.URL;type=pref:http://www.sela.dpages.co.il/
+item1.URL;type=pref:http://www.seladigital.co.il
 item1.X-ABLabel:_$!<HomePage>!$_
 item2.URL:http://osh-design.co.il/sela_digital.html
 item2.X-ABLabel:digital card
